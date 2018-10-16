@@ -22,17 +22,13 @@
     "eslint-plugin-react": "^7.11.1",
     "jest": "^23.6.0",
     "node-sass": "^4.9.4",
-    "parcel-bundler": "^1.10.0",
-    "sass-extract": "^2.1.0",
-    "sass-extract-js": "^0.4.0",
-    "sass-extract-loader": "^1.1.0"
+    "parcel-bundler": "^1.10.0"
   },
   "dependencies": {
     "components": "^0.1.0",
     "graphql": "^14.0.2",
     "react": "^16.5.2",
     "react-dom": "^16.5.2",
-    "sass": "^1.14.1",
     "src": "^1.1.2",
     "styled-components": "^3.4.10"
   }
